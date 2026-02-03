@@ -1,6 +1,6 @@
-#F1 Simulador de Temporada
+# F1 Simulador de Temporada
 
-##Descripción del proyecto
+## Descripción del proyecto
 Este proyecto tiene el objetivo de simular la gestion de una temporada de Formula 1 desarrollado con Python y 
 utilizando MySQL como bases de datos.
 
